@@ -1,4 +1,5 @@
 List Hard Skills yang ditambahkan:
 - Python
 - Java
-- SQL
+- C
+- C++
