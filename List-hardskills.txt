@@ -3,3 +3,6 @@ List Hard Skills yang ditambahkan:
 - Java
 - C
 - C++
+- SQL
+- REACT
+
