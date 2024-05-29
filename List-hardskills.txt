@@ -2,3 +2,7 @@ List Hard Skills yang ditambahkan:
 - Python
 - Java
 - SQL
+- REACT
+- C#
+- C++
+- C
